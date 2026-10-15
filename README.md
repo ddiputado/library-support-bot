@@ -1,8 +1,8 @@
 # Library Support Bot
 
 This is an AI support bot for my library system. You can ask it about the library's rules,
-opening hours and books, and it answers using **live data from my own C++ Library Management
-System**(https://github.com/ddiputado/library-management-system). If it doesn't have the information, it says so instead of making something up.
+opening hours and books, and it answers using [**live data from my own C++ Library Management
+System**](https://github.com/ddiputado/library-management-system). If it doesn't have the information, it says so instead of making something up.
 
 ```
 You:  Is The Hunger Games available?
