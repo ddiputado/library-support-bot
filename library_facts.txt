@@ -1,0 +1,8 @@
+Members can borrow up to 3 books at the same time.
+The library is open Monday to Friday from 9:00 to 18:00 and is closed at weekends.
+Books must be returned within 14 days.
+Late returns cost 0.50 euros per day for each book.
+New members can register at the front desk; membership is free.
+Each member receives a member ID number starting from 1000.
+When returning a book, members can rate it from 1 to 5 stars.
+A book that is currently borrowed cannot be borrowed by another member until it is returned.
